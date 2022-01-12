@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Embedeed Signal Processing Software
 - 🤔 I’m looking for help with ... Nothing, at the moment
 - 💬 Ask me about ... Signal Processing, Embedded Software (ARM, C2000)
-- 📫 How to reach me: ... [LinkedIn](linkedin.com/in/vishal-coelho-4681411b)
+- 📫 How to reach me: ... [LinkedIn](htttp://www.linkedin.com/in/vishal-coelho-4681411b)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I wake up at 5 a.m. every day but keep it analog till 8 a.m.
 
