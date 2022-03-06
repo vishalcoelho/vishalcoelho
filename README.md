@@ -10,14 +10,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Beginner Game Programming in C++
+- 🔭 I’m currently working on ... LeetCode
+- 🌱 I’m currently learning ... FreeRTOS, DSP with Python
 - 👯 I’m looking to collaborate on ... Embedeed Signal Processing Software
 - 🤔 I’m looking for help with ... Nothing, at the moment
 - 💬 Ask me about ... Signal Processing, Embedded Software (ARM, C2000)
 - 📫 How to reach me: ... [LinkedIn](http://www.linkedin.com/in/vishal-coelho-4681411b)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... **I wake up at 5 a.m. every day but keep it analog till 8 a.m.**
 
 ## 🚀 Languages and Tools:
 
@@ -25,13 +23,11 @@
     <img src="https://img.icons8.com/color/48/000000/c.png"/>
     <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
     <a href="https://www.mathworks.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://img.icons8.com/color/48/000000/confluence--v2.png"/> </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
     <a href="https://www.atlassian.com/software/bitbucket" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bitbucket.png"/></a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p>
 
 <br/>
